@@ -1,8 +1,5 @@
-fr.french.verbs.lib
+fr.french.verbs.lib - Français
 ===================
-
-Français
-========
 
 Description
 ----
@@ -14,8 +11,8 @@ Licence
 
 MIT
 
-English
-========
+fr.french.verbs.lib - English
+===================
 
 Summary
 ----
