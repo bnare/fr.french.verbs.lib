@@ -4,7 +4,7 @@ fr.french.verbs.lib - Français
 Description
 ----
 
-Une bibliothèque permettant de conjuguer environs 7000 verbes français.
+Une bibliothèque permettant de conjuguer environ 7000 verbes français.
 
 Licence
 ----
